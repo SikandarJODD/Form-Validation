@@ -1,0 +1,8 @@
+.form_width {
+  width: 400px;
+}
+@media (max-width: 500px) {
+  .form_width {
+    width: 100%;
+  }
+}
